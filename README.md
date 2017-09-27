@@ -1,4 +1,4 @@
-# plow
+# phlow
 A phylodynamics workflow for pathogen sequence data
 
 Phlow can be called using the following command from a unix terminal:
