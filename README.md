@@ -9,4 +9,4 @@ The input sequence file should have the name "fileName.fas" and the sequences sh
 
 The header line for the sequences should be in the following format:
 
->seqName_sampleDate
+\>seqName_sampleDate
